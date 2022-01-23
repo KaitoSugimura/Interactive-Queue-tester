@@ -11,7 +11,7 @@ isEmpty();
 size();
     
 ## Some Methods you can try in Main:
-reverse(); //Given you have items in queue
+reverse(); 
 quickTest();
 quickTestWithReverse();
 InteractiveTest(); //recommended 
